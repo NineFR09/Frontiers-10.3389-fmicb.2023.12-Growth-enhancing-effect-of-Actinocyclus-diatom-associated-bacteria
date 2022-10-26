@@ -1,6 +1,7 @@
 DADA2 pipeline (Divise Amplicon Denoising Algorithm)
-
 Callahan, B. J., McMurdie, P. J., Rosen, M. J., Han, A. W., Johnson, A. J. A., & Holmes, S. P. (2016). DADA2: High-resolution sample inference from Illumina amplicon data. Nature methods, 13(7), 581-583.
+
+Raw Illumina sequences reads of the microbiome data are deposited in NCBI Sequence Read Archive (SRA) under the BioProject PRJNA885573. 
 
 # STEP1: Set Directories and make subfolders for your files
 
